@@ -1,7 +1,7 @@
 # xLongSignDB
 
 ## INSTRUCTIONS FOR DOWNLOADING xLongSignDB 
-1) [Download license agreement](http://atvs.ii.uam.es/atvs/licenses/ATVS-SLT_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
+1) [Download license agreement](http://atvs.ii.uam.es/atvs/licenses/xLongSignDB_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
  
  
 2) Send an email to **atvsuam.es**, as follows:
@@ -14,7 +14,7 @@
 3) Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
  
 
-4) [Download the database](http://atvs.ii.uam.es/atvs/intranet/free_DB/SLTDB), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
+4) [Download the database](http://atvs.ii.uam.es/atvs/intranet/free_DB/xLongSignDB), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
  
 
 5) For more information, please contact: **atvs@uam.es**
@@ -22,17 +22,17 @@
 
 ## DESCRIPTION OF xLongSignDB 
 
-The dataset comprises the on-line signature data of the 29 common users to the BiosecurID and the Biosecure databases. These two signature subsets were acquired in a 15 month time span and present some unique features that make them especially suited for aging evaluation of on-line signature recognition systems [PONE2013]. The general time distribution of the different sessions of the database is shown in Fig. 1.
+The dataset comprises the on-line signature data of the 29 common users to the BiosecurID and the Biosecure databases. These two signature subsets were acquired in a 15 month time span and present some unique features that make them especially suited for aging evaluation of on-line signature recognition systems [IET2019]. The general time distribution of the different sessions of the database is shown in Fig. 1.
 
 ![](http://atvs.ii.uam.es/atvs/xLongSignDB.jpg )
-Figure 1. General time diagram of the different acquisition sessions that conform the ATVS On-Line Signature Long-Term DB.
+Figure 1. General time diagram of the different acquisition sessions that form the xLongSignDB.
 
 
 #### __The BiosecurID Signature Subset [PAA2010]__
 
 It comprises 16 original signatures per user (29 users).
 
-Samples were captured in 4 separate acquisition sessions (named BID1, BID2, BID3 and BID4 in Fig. 1).
+Samples were captured in 4 separate acquisition sessions (named S1, S2, S3 and S4 in Fig. 1).
 
 The sessions were captured leaving a two month interval between them, in a controlled and supervised office-like scenario.
 
@@ -42,9 +42,9 @@ Users were asked to sign on a piece of paper, inside a grid that marked the vali
 #### __The Biosecure Signature Subset [PAMI2010]__
 This dataset was captured 6 months after the BiosecurID acquisition campaign had finished (the time sequence of the two databases is shown in Fig. 1).
 
-It comprises 30 original signatures per user (same 29 users as the BiosecurID subset) distributed in two acquisition sessions separated three months (named Bure1 and Bure2 in Fig. 1).
+It comprises 30 original signatures per user (same 29 users as the BiosecurID subset) distributed in two acquisition sessions separated three months (named S5 and S6 in Fig. 1).
 
-The 15 original samples corresponding to each session were captured in three groups of 5 consecutive signatures with an interval of around 15 minutes between groups (named in Fig. 1 Bure11-12-13 and Bure21-22-23, respectively).
+The 15 original samples corresponding to each session were captured in three groups of 5 consecutive signatures with an interval of around 15 minutes between groups (named in Fig. 1 S.5.1-2-3 and S.6.1-2-3, respectively).
 
 The signature dataset was designed to be fully compatible with the BiosecurID one. The acquisition scenario and protocol are almost identical: as in the BiosecurID case, users had to sign using an inking pen on a piece of paper with a restricted space, placed over the Wacom Intuos 3 pen tablet. The dynamic information stored is the same as in BiosecurID and following also the SVC format.
 
@@ -80,17 +80,17 @@ The nomenclature followed to name the signature files is as follows: XXXX_sgYY.s
 
 The correspondence between signatures is as follows: XXXX_sgYY.svc
 
-+ Signatures 1-4: BID1 (1st session of BiosecurID)
++ Signatures 1-4: S1 (1st session of BiosecurID)
 
-+ Signatures 5-8: BID2 (2nd session of BiosecurID)
++ Signatures 5-8: S2 (2nd session of BiosecurID)
 
-+ Signatures 9-12: BID3 (3rd session of BiosecurID)
++ Signatures 9-12: S3 (3rd session of BiosecurID)
 
-+ Signatures 13-16: BID4 (4th session of BiosecurID)
++ Signatures 13-16: S4 (4th session of BiosecurID)
 
-+ Signatures 17-31: Bure1 (1st session of Biosecure)
++ Signatures 17-31: S5 (1st session of Biosecure)
 
-+ Signatures 32-46: Bure2 (2nd session of Biosecure)
++ Signatures 32-46: S6 (2nd session of Biosecure)
 
 
 #### REFERENCES
