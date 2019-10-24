@@ -95,7 +95,6 @@ The correspondence between signatures is as follows: XXXX_sgYY.svc
 
 #### REFERENCES
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the ATVS group webpage.)
-+ [IET2019] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Reducing the Template Aging Effect in On-Line Signature Biometrics", IET Biometrics (under review).
 
 + [PONE2013] J.Galbally, M. Martinez-Diaz and Julian Fierrez, "[Aging in Biometrics: An Experimental Analysis on On-Line Signature](http://atvs.ii.uam.es/atvs/files/2013_PLOSone_AgeingSignature_Galbally_Published.pdf)", PLOS ONE, Vol. 8, n. 7, 2013 ([DOI](http://dx.plos.org/10.1371/journal.pone.0069897)).
 
