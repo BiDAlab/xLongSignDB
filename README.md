@@ -1,7 +1,7 @@
 # xLongSignDB
 
 ## INSTRUCTIONS FOR DOWNLOADING xLongSignDB 
-1) [Download license agreement](http://atvs.ii.uam.es/atvs/licenses/xLongSignDB_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
+1) [Download license agreement](https://bidalab.eps.uam.es/static/licenses/xLongSignDB_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
  
  
 2) Send an email to **atvs@uam.es**, as follows:
@@ -14,7 +14,7 @@
 3) Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
  
 
-4) [Download the database](http://atvs.ii.uam.es/atvs/intranet/free_DB/xLongSignDB), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
+4) [Download the database](https://bidalab.eps.uam.es/listdatabases?id=xLongSignDB#page), for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to **atvs@uam.es** that you have successfully completed the transaction.
  
 
 5) For more information, please contact: **atvs@uam.es**
@@ -97,10 +97,10 @@ The correspondence between signatures is as follows: XXXX_sgYY.svc
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the ATVS group webpage.)
 + [IET2019] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, “Reducing the Template Aging Effect in On-Line Signature Biometrics”, IET Biometrics, 2019.
 
-+ [PONE2013] J.Galbally, M. Martinez-Diaz and Julian Fierrez, "[Aging in Biometrics: An Experimental Analysis on On-Line Signature](http://atvs.ii.uam.es/atvs/files/2013_PLOSone_AgeingSignature_Galbally_Published.pdf)", PLOS ONE, Vol. 8, n. 7, 2013 ([DOI](http://dx.plos.org/10.1371/journal.pone.0069897)).
++ [PONE2013] J.Galbally, M. Martinez-Diaz and Julian Fierrez, "[Aging in Biometrics: An Experimental Analysis on On-Line Signature](https://bidalab.eps.uam.es/static/files/2013_PLOSone_AgeingSignature_Galbally_Published.pdf)", PLOS ONE, Vol. 8, n. 7, 2013 ([DOI](http://dx.plos.org/10.1371/journal.pone.0069897)).
 
-+ [PAA2010] J. Fierrez, J. Galbally, J. Ortega-Garcia, M. R. Freire, F. Alonso-Fernandez, D. Ramos, D. T. Toledano, J. Gonzalez-Rodriguez, J. A. Siguenza, J. Garrido-Salas, E. Anguiano, G. Gonzalez-de-Rivera, R. Ribalda, M. Faundez-Zanuy, J. A. Ortega, V. Cardeñoso-Payo, A. Viloria, C. E. Vivaracho, Q. I. Moro, J. J. Igarza, J. Sanchez, I. Hernaez, C. Orrite-Uruñuela, F. Martinez-Contreras and J. J. Gracia-Roche, "[BiosecurID: A Multimodal Biometric Database](http://atvs.ii.uam.es/atvs/files/2009_PAA_BiosecurID_Fierrez.pdf)", Pattern Analysis and Applications, Vol. 13, n. 2, pp. 235-246, 2010.
++ [PAA2010] J. Fierrez, J. Galbally, J. Ortega-Garcia, M. R. Freire, F. Alonso-Fernandez, D. Ramos, D. T. Toledano, J. Gonzalez-Rodriguez, J. A. Siguenza, J. Garrido-Salas, E. Anguiano, G. Gonzalez-de-Rivera, R. Ribalda, M. Faundez-Zanuy, J. A. Ortega, V. Cardeñoso-Payo, A. Viloria, C. E. Vivaracho, Q. I. Moro, J. J. Igarza, J. Sanchez, I. Hernaez, C. Orrite-Uruñuela, F. Martinez-Contreras and J. J. Gracia-Roche, "[BiosecurID: A Multimodal Biometric Database](https://bidalab.eps.uam.es/static/files/2009_PAA_BiosecurID_Fierrez.pdf)", Pattern Analysis and Applications, Vol. 13, n. 2, pp. 235-246, 2010.
 
-+ [PAMI2010] J. Ortega-Garcia, J. Fierrez, F. Alonso-Fernandez, J. Galbally, M. Freire, J. Gonzalez-Rodriguez, C.Garcia-Mateo, J.-L.Alba-Castro, E.Gonzalez-Agulla, E.Otero-Muras, S.Garcia-Salicetti, L.Allano, B.Ly-Van, B.Dorizzi, J.Kittler, T.Bourlai, N.Poh, F.Deravi, M.Ng, M.Fairhurst, J.Hennebert, A.Humm, M.Tistarelli, L.Brodo, J.Richiardi, A.Drygajlo, H.Ganster, F.M.Sukno, S.-K.Pavani, A.Frangi, L.Akarun and A.Savran, "[The Multi-Scenario Multi-Environment BioSecure Multimodal Database (BMDB)](http://atvs.ii.uam.es/atvs/files/2010_PAMI_BMDM_Ortega.pdf")", IEEE Trans. on Pattern Analysis and Machine Intelligence, Vol. 32, n. 6, pp. 1097-1111, 2010.
++ [PAMI2010] J. Ortega-Garcia, J. Fierrez, F. Alonso-Fernandez, J. Galbally, M. Freire, J. Gonzalez-Rodriguez, C.Garcia-Mateo, J.-L.Alba-Castro, E.Gonzalez-Agulla, E.Otero-Muras, S.Garcia-Salicetti, L.Allano, B.Ly-Van, B.Dorizzi, J.Kittler, T.Bourlai, N.Poh, F.Deravi, M.Ng, M.Fairhurst, J.Hennebert, A.Humm, M.Tistarelli, L.Brodo, J.Richiardi, A.Drygajlo, H.Ganster, F.M.Sukno, S.-K.Pavani, A.Frangi, L.Akarun and A.Savran, "[The Multi-Scenario Multi-Environment BioSecure Multimodal Database (BMDB)](https://bidalab.eps.uam.es/static/files/2010_PAMI_BMDM_Ortega.pdf")", IEEE Trans. on Pattern Analysis and Machine Intelligence, Vol. 32, n. 6, pp. 1097-1111, 2010.
 
 Please remember to reference articles [IET2019] and [PONE2013] on any work made public, whatever the form, based directly or indirectly on any part of the xLongSignDB.
